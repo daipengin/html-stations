@@ -1,0 +1,19 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-size: 2000px;
+    background-color: #c4c4c4;
+    min-height: 100vh;
+    
+}
+
+header{
+    background-color: #fff;
+}
+
+footer{
+    background-color: #fff;
+}
+.nav{
+    background-color: #726666;
+}
