@@ -12,6 +12,9 @@ body {
     background-color: #fff;
 }
 
+p{
+    color: #282828;
+}
 p .card_title{
     color: #282828;
     font-size: 14px;
