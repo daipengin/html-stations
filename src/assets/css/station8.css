@@ -1,5 +1,8 @@
-.con{
+.card-container{
     display: flex;
+    display: block;
+    
+
 }
 
 
