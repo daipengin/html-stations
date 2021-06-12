@@ -16,11 +16,11 @@ body .card_title{
     font-size: 14px;
 
 }
-p .card__description{
+.card__description{
     color: #282828;
     font-size: 12px;
 }
-p .card__img-top{
+.card__img-top{
     height: 182px;
     width: 288px;
     margin-bottom:10px;
