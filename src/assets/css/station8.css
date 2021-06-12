@@ -1,12 +1,15 @@
 .card-container{
-  
+    display: block;
+    display: flexbox;
+    justify-content: center;
     align-items: center;
 }
 
+.card-container{
 
-.card{
-    justify-content: center;
 }
+
+
 
 
 
