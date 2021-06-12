@@ -2,13 +2,13 @@ body {
     margin: 0px;
     padding: 0px;
     background-size: 2000px;
-    background-color: #c4c4c4;
+    background-color: #fff;
     min-height: 100vh;
     
 }
 
 header{
-    background-color: #C4C4C4;
+    background-color: #fff;
     color: #fff;
 }
 
@@ -16,5 +16,5 @@ footer{
     background-color: #fff;
 }
 .nav{
-    background-color: #726666;
+    background-color: #fff;
 }
