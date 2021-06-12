@@ -1,12 +1,12 @@
 .card-container{
     display: block;
-    display: flexbox;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.card-container{
-
+.card{
+    display: block;
 }
 
 
