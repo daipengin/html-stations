@@ -1,7 +1,11 @@
 .card{
     background-color: #FFFfff;
     display: flex;
-    flex-direction: row;
+    
+}
+
+.card-container{
+    display: flex;
 }
 
 p{
