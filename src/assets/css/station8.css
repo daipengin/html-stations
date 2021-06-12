@@ -1,6 +1,5 @@
 .card-container{
-    display: block;
-    display: flex;
+    display: flexbox;
     justify-content: center;
     align-items: center;
 }
