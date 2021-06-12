@@ -3,7 +3,9 @@
 }
 
 
-
+.card{
+    display: flex;
+}
 
 
 p{
