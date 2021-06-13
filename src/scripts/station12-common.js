@@ -1,5 +1,4 @@
-import  getData from 'station12.js'
-export  function getData() {
+function getData() {
     return "Station12をクリア!"
 }
 var result = getData();
