@@ -26,7 +26,7 @@ p{
          .card__description{
             display: none;
         }
-         .card_title{
+         .card__title{
             font-size: 10px;
         }
 }
@@ -35,7 +35,7 @@ p{
          .card__description{
             font-size: 8px;
         }
-         .card_title{
+         .card__title{
             font-size: 10px;
         }
 }
